@@ -19,6 +19,7 @@ a {
 }
 
 img {
+	translateZ: 0;
     max-width: 100%;
 }
 
